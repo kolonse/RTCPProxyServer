@@ -1,0 +1,9 @@
+{
+	"pay.wanchuangyou.com":{
+		"Domain":"pay.wanchuangyou.com",
+		"Port":9878,
+		"Status":"wait",
+		"Desc":"for pay server",
+		"ParterIp":"127.0.0.1"
+	}
+}
